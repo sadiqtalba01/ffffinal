@@ -1,0 +1,1 @@
+var json_BANK_0 = {"type":"FeatureCollection","name":"BANK_0","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"NAME":"UNITY BANK PLC"},"geometry":{"type":"Point","coordinates":[7.720815167374179,11.109431561964717]}}]}
